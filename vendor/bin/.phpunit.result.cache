@@ -1,0 +1,1 @@
+{"version":1,"defects":{"CategoryManagerTest::testCreateCategory":4},"times":{"CategoryManagerTest::testCreateCategory":0.008,"CategoryManagerTest::testGetSubcategories":0.001,"CategoryManagerTest::testGetPath":0}}
